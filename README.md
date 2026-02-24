@@ -5,7 +5,7 @@
 공공기관(B2G) 대상 메일 서비스 전문 기업에서 <br>
 레거시 시스템을 모던 아키텍처로 전환하고 인프라를 고도화하는 작업을 주도해왔습니다. 
 
-Java 17, Spring Boot 기반의 백엔드 개발뿐만 아니라, Elasticsearch를 활용한 검색 엔진 최적화, Elastic Stack을 이용한 풀스택 모니터링 환경 구축 등 <br>
+Java, Spring Boot 기반의 백엔드 개발뿐만 아니라, Elasticsearch를 활용한 검색 엔진 최적화, Elastic Stack을 이용한 풀스택 모니터링 환경 구축 등 <br>
 인프라와 애플리케이션의 경계를 넘어 시스템 전반의 성능과 품질을 개선하는 일에 집중합니다.
 
 - 📧 **Email**: `khg198621@gmail.com`
@@ -16,7 +16,7 @@ Java 17, Spring Boot 기반의 백엔드 개발뿐만 아니라, Elasticsearch�
 ## 💡 Skills
 | Category | Skills |
 | --- | --- |
-| **Backend** | `Java 17`, `Kotlin`, `Spring Boot`, `Spring Security`, `JPA` |
+| **Backend** | `Java`, `Kotlin`, `Spring Boot`, `Spring Security`, `JPA` |
 | **Search & Observability** | `Elasticsearch`, `Elastic Agent`, `Elastic APM`, `Kibana` |
 | **Database** | `MySQL`, `PostgreSQL`, `Redis` |
 | **Frontend** | `React` |
@@ -40,7 +40,7 @@ Java 17, Spring Boot 기반의 백엔드 개발뿐만 아니라, Elasticsearch�
 - **기간**: 2023.07 ~ 현재
 - **주요 업무**:
   - 과학기술분야 정부출연연구기관 대상 메일 서비스 인프라 구축, 배포, 신기능 개발 및 운영
-  - 기존 Java 8 / JSP 레거시 환경의 보안 취약점을 해결하기 위해 **Java 17, Spring Boot, JPA 기반 API 서버 전면 개편 및 Gateway, Discovery 분리 (1인 주도 구축)**
+  - 기존 Java 8 / JSP 레거시 환경의 보안 취약점을 해결하기 위해 **Java 17, Spring Boot, JPA 기반 API 서버 전면 개편 및 Gateway, Discovery 분리**
   - Spring Security와 Redis Cluster를 연동한 분산 환경 토큰 기반 인증 시스템 설계 및 개발
   - 서비스 검색 품질 개선을 위해 **Elasticsearch 8.x 클러스터 인프라 직접 구성** 및 레거시 데이터 연동
   - 기존 부재했던 로그/모니터링 환경을 극복하고자 전통적인 ELK 대신 **Elastic Agent, Elastic APM, Kibana** 등 최신 스택을 도입하여 풀스택 모니터링 파이프라인 구축
