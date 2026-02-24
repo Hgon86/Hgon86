@@ -40,8 +40,8 @@ Java 17, Spring Boot 기반의 백엔드 개발뿐만 아니라, Elasticsearch�
 - **직무**: Backend Developer (공공기관 메일 서비스 개발 및 유지보수)
 - **기간**: 2023.07 ~ 현재
 - **주요 업무**:
-  - 공공기관(과학기술분야 정부출연연구기관 등) 대상 메일 서비스 인프라 구축, 배포, 신기능 개발 및 운영
-  - 기존 Java 8 / JSP 레거시 환경의 보안 취약점을 해결하기 위해 **Java 17, Spring Boot, JPA 기반 API 서버 전면 개편 및 MSA(Gateway, Discovery) 분리 (1인 주도 구축)**
+  - 과학기술분야 정부출연연구기관 대상 메일 서비스 인프라 구축, 배포, 신기능 개발 및 운영
+  - 기존 Java 8 / JSP 레거시 환경의 보안 취약점을 해결하기 위해 **Java 17, Spring Boot, JPA 기반 API 서버 전면 개편 및 Gateway, Discovery 분리 (1인 주도 구축)**
   - Spring Security와 Redis Cluster를 연동한 분산 환경 토큰 기반 인증 시스템 설계 및 개발
   - 서비스 검색 품질 개선을 위해 **Elasticsearch 8.x 클러스터 인프라 직접 구성** 및 레거시 데이터 연동
   - 기존 부재했던 로그/모니터링 환경을 극복하고자 전통적인 ELK 대신 **Elastic Agent, Elastic APM, Kibana** 등 최신 스택을 도입하여 풀스택 모니터링 파이프라인 구축
