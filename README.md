@@ -17,9 +17,8 @@ Java 17, Spring Boot 기반의 백엔드 개발뿐만 아니라, Elasticsearch�
 | Category | Skills |
 | --- | --- |
 | **Backend** | `Java 17`, `Kotlin`, `Spring Boot`, `Spring Security`, `JPA` |
-| **MSA & Auth** | `Spring Cloud Gateway`, `Eureka`, `Redis Cluster` |
 | **Search & Observability** | `Elasticsearch`, `Elastic Agent`, `Elastic APM`, `Kibana` |
-| **Database** | `MySQL`, `PostgreSQL` |
+| **Database** | `MySQL`, `PostgreSQL`, `Redis` |
 | **Frontend** | `React` |
 | **DevOps & Tools** | `Git`, `GitHub`, `Docker` |
 ---
