@@ -8,7 +8,7 @@
 Java 17, Spring Boot 기반의 백엔드 개발뿐만 아니라, Elasticsearch를 활용한 검색 엔진 최적화, Elastic Stack을 이용한 풀스택 모니터링 환경 구축 등 <br>
 인프라와 애플리케이션의 경계를 넘어 시스템 전반의 성능과 품질을 개선하는 일에 집중합니다.
 
-- 📧 **Email**: `khg198621@gmail.com` (여기에 이메일을 적어주세요)
+- 📧 **Email**: `khg198621@gmail.com`
 - 🐙 **GitHub**: [Hgon86](https://github.com/Hgon86)
 
 ---
